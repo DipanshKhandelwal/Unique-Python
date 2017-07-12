@@ -12,6 +12,6 @@ def draw_square():
         brad.forward(100)
         brad.right(90)
 
-    window.exitonClick()
+    window.exitonclick()
 
 draw_square()

@@ -9,6 +9,6 @@ def move_forward():
     brad = turtle.Turtle()
     brad.forward(100)
 
-    window.exitonClick()
+    window.exitonclick()
 
 move_forward()
