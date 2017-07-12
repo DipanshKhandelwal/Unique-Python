@@ -1,7 +1,9 @@
 import turtle
 
-def draw_square():
-    window = turtle.screen()
+
+''' code to open a new window and print a straight line '''
+def move_forward():
+    window = turtle.Screen()
     window.bgcolor("red")
     
     brad = turtle.Turtle()
@@ -9,4 +11,4 @@ def draw_square():
 
     window.exitonClick()
 
-draw_square()
+move_forward()
