@@ -1,0 +1,4 @@
+This is the file i am going to read from my python program.
+
+This is second line . But its the third one.
+Oh shit!!
