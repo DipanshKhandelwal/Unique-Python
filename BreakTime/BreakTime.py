@@ -8,7 +8,7 @@ webbrowser to any of your favourite website'''
 break_count = 0
 print("Your break time program started on " + time.ctime())
 while(True):
-    time.sleep(60*30)
+    time.sleep(60*30)#30 minutes
     break_count += 1
     print("This is your break number " + str(break_count) + " at :- " + time.ctime())
     webbrowser.open("https://www.youtube.com/")   
