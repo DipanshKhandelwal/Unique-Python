@@ -20,3 +20,8 @@ Programs about file handling in python.
 Programs to explain basic object oriented programming in python.
 
 ## 7. Some other functions
+
+# How To RUN
+- Install python3.
+- Clone the repository.
+- Run the python programs in your own PC.
