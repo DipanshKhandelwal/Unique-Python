@@ -19,7 +19,10 @@ Programs about file handling in python.
 ## 6. ObjectOrientedProgramming
 Programs to explain basic object oriented programming in python.
 
-## 7. Some other functions
+## 7. Histograms
+Programs to plot histograms in python.
+
+## 8. Some other functions
 
 # How To RUN
 - Install python3.
