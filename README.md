@@ -25,7 +25,10 @@ Program to plot histograms in python.
 ## 8. TreeVisualization
 Program to prepare tree visualization of data in python giving output in pdf format.
 
-## 9. Some other functions
+## 9. RockPaperScissorGame
+Program to let users play Rock Paper Scissor with computer.
+
+## 10. Some other functions
 
 # How To RUN
 - Install python3.
