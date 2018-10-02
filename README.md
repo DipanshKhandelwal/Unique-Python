@@ -28,7 +28,10 @@ Program to prepare tree visualization of data in python giving output in pdf for
 ## 9. RockPaperScissorGame
 Program to let users play Rock Paper Scissor with computer.
 
-## 10. Some other functions
+## 10. Simple dice toss with python
+Program to toss dice with computer.
+
+## 11. Some other functions
 
 # How To RUN
 - Install python3.
